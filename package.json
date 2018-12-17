@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Homework #13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Momo0532/FriendFinder.git"
+  },
+  "author": "Jason Villaluz",
+  "license": "ISC",
+  "bugs": {
+    "url": "hhttps://github.com/Momo0532/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Momo0532/FriendFinder/blob/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
